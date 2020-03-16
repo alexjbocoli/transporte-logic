@@ -10,8 +10,6 @@ import javax.swing.JComboBox;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-import org.junit.jupiter.api.Test;
-
 import com.example.transportlogic.controller.TransportadoraController;
 import com.example.transportlogic.model.CalculoModel;
 import com.example.transportlogic.model.TransportadoraModel;
