@@ -49,7 +49,6 @@ public class BotaoTeste implements ActionListener {
 	/**
 	 * Método responsável por realizar as ações do botão Teste
 	 */
-	@Test
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		// Objeto instanciado da classe TransportadoraController
